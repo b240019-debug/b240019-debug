@@ -2,62 +2,72 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Neon+Runner+Online;Debug+Ghost+Activated;Level+99+Curiosity;Build.+Break.+Repeat." alt="Cyberpunk banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Neural+Drift+Protocol;ML+Operator+Online;Classical+ML+%7C+GenAI+%7C+LangChain;Building+models.+Chasing+signals." alt="AI cyberpunk banner" />
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFAA?style=for-the-badge&logo=github&logoColor=black" alt="status" />
-  <img src="https://img.shields.io/badge/MODE-CYBERPUNK-FF00CC?style=for-the-badge" alt="mode" />
-  <img src="https://img.shields.io/badge/CLASS-Debug+Runner-00C2FF?style=for-the-badge" alt="class" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5A0?style=for-the-badge&logo=github&logoColor=black" alt="status" />
+  <img src="https://img.shields.io/badge/SECTOR-AI%2FML-7C3AED?style=for-the-badge" alt="sector" />
+  <img src="https://img.shields.io/badge/CLASS-Model+Operator-00C2FF?style=for-the-badge" alt="class" />
 </p>
 
 ```text
-  ███╗   ██╗███████╗████████╗██╗  ██╗██╗   ██╗██╗███╗   ███╗
-  ████╗  ██║██╔════╝╚═���██╔══╝██║  ██║██║   ██║██║████╗ ████║
-  ██╔██╗ ██║█████╗     ██║   ███████║██║   ██║██║██╔████╔██║
-  ██║╚██╗██║██╔══╝     ██║   ██╔══██║██║   ██║██║██║╚██╔╝██║
-  ██║ ╚████║███████╗   ██║   ██║  ██║╚██████╔╝██║██║ ╚═╝ ██║
-  ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝     ╚═╝
+   ███╗   ██╗███████╗██╗     ██████╗ ███╗   ██╗███████╗███╗   ██╗
+   ████╗  ██║██╔════╝██║     ██╔══██╗████╗  ██║██╔════╝████╗  ██║
+   ██╔██╗ ██║█████╗  ██║     ██████╔╝██╔██╗ ██║█████╗  ██╔██╗ ██║
+   ██║╚██╗██║██╔══╝  ██║     ██╔══██╗██║╚██╗██║██╔══╝  ██║╚██╗██║
+   ██║ ╚████║███████╗███████╗██║  ██║██║ ╚████║███████╗██║ ╚████║
+   ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝
 
-       [ User: b240019-debug ]
-       [ Alias: Neon Ghost / Code Runner ]
-       [ Bio: Breaking bugs, chasing ideas, surviving the grid ]
+       [ Agent: b240019-debug ]
+       [ Role: AI / ML Operator ]
+       [ Focus: Classical ML + GenAI + LangChain + RAG ]
+       [ Status: Model drift detected, but optimism intact ]
 ```
 
-## Mission Log
+## Sector Brief
 
-I’m not here for the boring stuff. I’m here to build weird things, fix the impossible, and keep leveling up in the neon fog.
+I work at the edge of old-school ML and new-generation AI systems — where feature engineering meets prompt engineering, and where evaluation still matters more than hype.
 
-- 🧠 Main quest: learn fast, build cool stuff
-- ⚙️ Favorite ability: debugging under pressure
-- 💥 Side quest: turning random ideas into working projects
-- 🌌 Current vibe: cyberpunk, anime energy, zero chill
+- 🧠 Core: classical ML, supervised learning, feature pipelines, model evaluation
+- ⚡ New stack: LLMs, prompt design, retrieval, RAG systems, agent workflows
+- 🛠️ Tools: LangChain, vector stores, embeddings, model fine-tuning, experimentation loops
+- 🌌 Philosophy: build useful systems, not just impressive demos
 
 ## Loadout
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## XP / Stats
+## Mission Queue
+
+- 🔥 Classical ML foundations: regression, classification, clustering, validation
+- 🧪 Generative AI workflows: prompt design, chaining, orchestration, evals
+- 🧬 RAG pipelines: retrieval, embeddings, memory, context engineering
+- 🚀 AI product thinking: shipping useful models, not just prototypes
+
+## Signal Map
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b240019-debug&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b240019-debug&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub stats" />
 </div>
 
-## Current Phase
+## Ghost Protocol
 
-- 🔥 exploring new ideas
-- 🧪 experimenting with code
-- 🛠️ fixing problems like a detective
-- 🚀 chasing the next neon breakthrough
+> “The model is only as good as the data, the evals, and the intention behind it.”
 
-> “In this city, bugs don’t die easy.”
+- 🎯 I like systems that are explainable, measurable, and operational
+- 📈 I care about performance, not just vibes
+- 🤖 I enjoy both statistical rigor and LLM creativity
+- 🧩 I’m the kind of builder who likes connecting classical ML to modern AI stacks
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=PRESS%20START%20TO%20CODE&fontSize=36&animation=blinking&fontColor=ffffff" alt="Press Start" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=MODEL%20READY&fontSize=36&animation=blinking&fontColor=ffffff" alt="Model Ready" />
 </p>
